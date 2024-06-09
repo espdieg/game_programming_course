@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff4155499ef4e46e497f15a09b0b9c27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePoint: {instanceID: 0}
+  - detergentPrefab: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - ShootingAudioClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
