@@ -1,9 +1,12 @@
 # game_programming_course
-This repository contains the entire contents of a game programming project. I collaborated on this project with three other team members and it was a team effort to put everything together. If you'd like to skip ahead and just play the game it can be found [here](https://github.com/espdieg/game_programming_course/tree/main/Executable) 🕹️ 
+This repository contains the entire contents of a game programming project. I collaborated on this project with three other team members and it was a team effort to put everything together. If you'd like to skip ahead and just play the game it can be found [here](https://github.com/espdieg/game_programming_course/tree/main/Executable) 🕹️ fyi - our group name was "work in progress" thus the text displayed when opening the game is this. 
 
 ### Gameplay overview:
 
   Our game is a simple 2D platformer where the objective is to shoot spawning enemies and remain alive as long as possible. Our player (stickman) is equipped with projectiles (detergent) and can run and jump on different platforms. It faces three types of opponents which are jerseys, pants, and hats. The jeans and jerseys continuously spawn in different areas and follow predetermined paths either North-South or East-West. The hats are spawned in only once at the beginning of the game and these know the player location and follow it around. Enemies have a health of 1 and once they are hit with detergent they vanish and our score is increased. The player has a health of 5 and loses 1 health each time it makes contact with an enemy. Once health reaches 0 the player is destroyed and there is a prompt asking for user to start game all over.
+
+### [Snippets folder](https://github.com/espdieg/game_programming_course/tree/main/Snippets)
+  This folder contains snippets of our game. It has a snip of the start menu, a snip at the very beginning of the game, and a snip of the menu that shows when you lose all your health or press the menu button. 
 
 ### [Executable folder](https://github.com/espdieg/game_programming_course/tree/main/Executable)
   This folder contains a link to download our executable from our Google drive and play the game yourself. 😄
